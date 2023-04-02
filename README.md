@@ -8,14 +8,14 @@ The Flutter Health Monitoring App is developed using the Flutter framework. The 
 Functionality
 The Flutter Health Monitoring App is designed to provide patients with an easy-to-use platform to contact their doctors, schedule appointments, and chat with them. The app offers several features that make it possible for users to access a wide range of doctors from different specialties. The following are some of the app's essential features:
 
-Registration and login
-Available doctors listing by category
-Doctor's profile page
-Contact a doctor using voice or video call
-Chat with a doctor
-Make an appointment to visit a doctor
-Symptom prediction
-Registration and Login
+### Registration and login
+### Available doctors listing by category
+### Doctor's profile page
+### Contact a doctor using voice or video call
+### Chat with a doctor
+### Make an appointment to visit a doctor
+### Symptom prediction
+### Registration and Login
 The registration feature allows new users to create an account on the app by entering their name, email, phone number, and password. Once registered, the user can log in using their email and password.
 
 Available Doctors Listing by Category
