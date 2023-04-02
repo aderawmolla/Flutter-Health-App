@@ -8,32 +8,32 @@ The Flutter Health Monitoring App is developed using the Flutter framework. The 
 Functionality
 The Flutter Health Monitoring App is designed to provide patients with an easy-to-use platform to contact their doctors, schedule appointments, and chat with them. The app offers several features that make it possible for users to access a wide range of doctors from different specialties. The following are some of the app's essential features:
 
-### Registration and login
-### Available doctors listing by category
-### Doctor's profile page
-### Contact a doctor using voice or video call
-### Chat with a doctor
-### Make an appointment to visit a doctor
-### Symptom prediction
-Registration and Login
+#### Registration and login
+#### Available doctors listing by category
+##### Doctor's profile page
+##### Contact a doctor using voice or video call
+##### Chat with a doctor
+##### Make an appointment to visit a doctor
+##### Symptom prediction
+### Registration and Login
 The registration feature allows new users to create an account on the app by entering their name, email, phone number, and password. Once registered, the user can log in using their email and password.
 
-Available Doctors Listing by Category
+### Available Doctors Listing by Category
 The available doctors are listed by category on the home page. The different categories include radiographers, heart specialists, dentists, and general doctors. The user can click on a specific category to view the available doctors in that category.
 
-Doctor's Profile Page
+### Doctor's Profile Page
 Each doctor has a profile page that provides detailed information about the doctor, including their name, picture, specialty, and qualifications. The user can also see the doctor's availability schedule and contact information.
 
-Contact a Doctor Using Voice or Video Call
+### Contact a Doctor Using Voice or Video Call
 The user can contact a doctor using voice or video call through the app. This feature allows the user to get in touch with the doctor without having to physically visit the clinic.
 
-Chat with a Doctor
+### Chat with a Doctor
 The chat feature allows the user to communicate with a doctor through text messages. This feature can be useful for asking questions or getting medical advice from the doctor.
 
-Make an Appointment to Visit a Doctor
+### Make an Appointment to Visit a Doctor
 The appointment feature allows the user to schedule an appointment to visit the doctor. The user can view the doctor's availability schedule and select a suitable time and date for the appointment.
 
-Symptom Prediction
+### Symptom Prediction
 The symptom prediction feature allows the user to input their symptoms and get a possible disease prediction based on the symptoms. This feature can be helpful for users who are not sure what kind of medical attention they require.
 
 Pages
